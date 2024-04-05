@@ -19,7 +19,7 @@ This project aims to provide an interactive dashboard for analyzing stock data u
 
 - **Tableau Cloud:** https://public.tableau.com/app/profile/mukesh.seerapu/viz/StockAnalysis-04_04_2024/StockAnalysis?publish=yes
 
-- ![alt text](image.png)
+ ![alt text](image.png)
 
 
 ## Usage

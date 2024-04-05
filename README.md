@@ -19,7 +19,8 @@ This project aims to provide an interactive dashboard for analyzing stock data u
 
 - **Tableau Cloud:** https://public.tableau.com/app/profile/mukesh.seerapu/viz/StockAnalysis-04_04_2024/StockAnalysis?publish=yes
 
- ![alt text](image.png)
+ <img width="947" alt="image" src="https://github.com/seerapumukesh/Stock_Analysis/assets/98502336/a56530dd-3ee8-4f21-a496-4176914667c5">
+
 
 
 ## Usage
